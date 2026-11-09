@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://doi.org/10.5281/zenodo.24081175)
 
 Official statistical analysis and figure-reproduction repository for:
 
@@ -58,7 +58,7 @@ csa-genital-attitudes-reproducibility/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/<YOUR_GITHUB_USERNAME>/csa-genital-attitudes-reproducibility.git
+git clone https://github.com/shulisrael/Dirty-Shameful-Not-My-Own.git
 cd csa-genital-attitudes-reproducibility
 
 # 2. Install dependencies and package in editable mode
