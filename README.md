@@ -85,26 +85,6 @@ All numeric outputs are saved to `outputs/reproduction_results.json` and publica
 
 ---
 
-## How to Connect This Repository to GitHub & Zenodo (Step-by-Step)
-
-1. **Create a New GitHub Repository**:
-   - Go to [https://github.com/new](https://github.com/new) and create a **Public** repository named `csa-genital-attitudes-reproducibility` (leave "Add a README" unchecked).
-2. **Push This Local Git Repository to GitHub**:
-   ```powershell
-   cd "c:\Users\hagay\OneDrive\Desktop\Shuli\PhD\csa-genital-attitudes-reproducibility"
-   git remote add origin https://github.com/<YOUR_GITHUB_USERNAME>/csa-genital-attitudes-reproducibility.git
-   git branch -M main
-   git push -u origin main
-   ```
-3. **Link GitHub to Zenodo to Mint a Permanent DOI**:
-   - Log in to [https://zenodo.org](https://zenodo.org) using your GitHub account.
-   - Go to **Menu (top-right dropdown) -> GitHub** ([https://zenodo.org/account/settings/github/](https://zenodo.org/account/settings/github/)).
-   - Flip the toggle switch next to `csa-genital-attitudes-reproducibility` to **ON**.
-   - Return to your GitHub repository, click **Releases -> Create a new release**, create tag `v1.0.0`, title it `v1.0.0: Initial Release for Journal of Sex & Marital Therapy`, and click **Publish release**.
-   - Zenodo will automatically archive the release, read `.zenodo.json` and `CITATION.cff`, and assign a permanent **DOI** (`10.5281/zenodo.XXXXXXX`) within ~30 seconds.
-
----
-
 ## Data and Code Availability Statement (Ready to Paste into the Manuscript)
 
-> **Data and Code Availability:** To protect participant privacy in accordance with Institutional Review Board approval, de-identified data are available from the corresponding author upon reasonable academic request. Complete Python code for data preprocessing, Full Information Maximum Likelihood (FIML) expectation–maximization path modeling, Little’s (1988) MCAR test, Multiple Imputation, outlier-robust regressions, Shapley value dominance analysis, figure generation, and a synthetic dataset for code verification is openly archived on GitHub (`https://github.com/<YOUR_GITHUB_USERNAME>/csa-genital-attitudes-reproducibility`) and Zenodo (`https://doi.org/10.5281/zenodo.XXXXXXX`).
+> **Data and Code Availability:** To protect participant privacy in accordance with Institutional Review Board approval, data is available from the corresponding author upon reasonable academic request. Complete Python code for data preprocessing, Full Information Maximum Likelihood (FIML) expectation–maximization path modeling, Little’s (1988) MCAR test, Multiple Imputation, outlier-robust regressions, Shapley value dominance analysis, figure generation, and a synthetic dataset for code verification is openly archived on GitHub (`https://github.com/<YOUR_GITHUB_USERNAME>/csa-genital-attitudes-reproducibility`) and Zenodo (`https://doi.org/10.5281/zenodo.24081175`).
