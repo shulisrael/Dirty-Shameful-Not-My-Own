@@ -84,7 +84,3 @@ pip install -e .
 All numeric outputs are saved to `outputs/reproduction_results.json` and publication figures to `outputs/figures/`.
 
 ---
-
-## Data and Code Availability Statement (Ready to Paste into the Manuscript)
-
-> **Data and Code Availability:** To protect participant privacy in accordance with Institutional Review Board approval, data is available from the corresponding author upon reasonable academic request. Complete Python code for data preprocessing, Full Information Maximum Likelihood (FIML) expectation–maximization path modeling, Little’s (1988) MCAR test, Multiple Imputation, outlier-robust regressions, Shapley value dominance analysis, figure generation, and a synthetic dataset for code verification is openly archived on GitHub (`https://github.com/shulisrael/Dirty-Shameful-Not-My-Own`) and Zenodo (`https://doi.org/10.5281/zenodo.24081175`).
