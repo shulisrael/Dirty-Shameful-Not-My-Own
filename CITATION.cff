@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+title: "Reproducibility Package for: Dirty, Shameful, Not My Own? Traumatized Sexuality as a Pathway From Childhood Sexual Abuse to Attitudes Toward Women's Genitals"
+message: "If you use this software or statistical code, please cite both the article and this software archive."
+type: software
+version: 1.0.0
+date-released: "2026-11-09"
+license: MIT
+authors:
+  - family-names: Sperber
+    given-names: Shulamit
+    affiliation: "School of Social Work, University of Haifa"
+  - family-names: Gewirtz-Meydan
+    given-names: Ateret
+    affiliation: "School of Social Work, University of Haifa"
+keywords:
+  - childhood sexual abuse
+  - women survivors
+  - attitudes toward women's genitals
+  - traumatized sexuality
+  - PT-SEX Scale
+  - sexual shame
+  - pleasing the partner
+  - full information maximum likelihood
+  - mediation analysis
+  - dominance analysis

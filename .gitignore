@@ -1,0 +1,56 @@
+# Visual Studio / IDE files (prevents locked .vsidx permission errors)
+.vs/
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Private / raw participant data (IRB protection)
+PRIVATE_*.csv
+data/*.csv
+data/*.tsv
+data/*.sav
+data/*.xlsx
+data/*.xls
+data/*.dta
+data/*.rds
+!data/README_DATA.md
+
+# Generated analysis outputs
+outputs/
+
+# Python build / cache / virtual environments
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+.pytest_cache/
+.coverage
+htmlcov/
+.venv/
+venv/
+ENV/
+env/
+
+# OS metadata
+.DS_Store
+Thumbs.db
+

@@ -1,0 +1,30 @@
+{
+  "title": "Reproducibility Code Package for: Dirty, Shameful, Not My Own? Traumatized Sexuality as a Pathway From Childhood Sexual Abuse to Attitudes Toward Women's Genitals",
+  "version": "1.0.0",
+  "upload_type": "software",
+  "license": "MIT",
+  "description": "Complete statistical analysis, Full Information Maximum Likelihood (FIML) expectation-maximization path modeling, Little's (1988) MCAR test, Multiple Imputation (MICE), outlier-robust regression, Shapley value dominance analysis, and publication figure generation code for 'Dirty, Shameful, Not My Own? Traumatized Sexuality as a Pathway From Childhood Sexual Abuse to Attitudes Toward Women's Genitals' (Sperber & Gewirtz-Meydan).",
+  "creators": [
+    {
+      "name": "Sperber, Shulamit",
+      "affiliation": "School of Social Work, University of Haifa, Haifa, Israel"
+    },
+    {
+      "name": "Gewirtz-Meydan, Ateret",
+      "affiliation": "School of Social Work, University of Haifa, Haifa, Israel"
+    }
+  ],
+  "keywords": [
+    "childhood sexual abuse",
+    "women survivors",
+    "attitudes toward women's genitals",
+    "traumatized sexuality",
+    "Post-Traumatic Sexuality Scale (PT-SEX)",
+    "sexual shame",
+    "pleasing the partner",
+    "traumagenic dynamics",
+    "full information maximum likelihood (FIML)",
+    "parallel mediation",
+    "dominance analysis"
+  ]
+}
